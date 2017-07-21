@@ -1,4 +1,4 @@
-# Black Hat Arsenal Tools Official Account
+# Official Black Hat Arsenal Tools Github Repository
 
 ![Arsenal](http://www.toolswatch.org/wp-content/uploads/2017/07/bh-arsenals-github-1.png) 
 
