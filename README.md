@@ -1,6 +1,6 @@
 # Black Hat Arsenal Tools Official Account
 
-![Arsenal](http://www.toolswatch.org/wp-content/uploads/2016/12/bh-arsenals-cfp-768x153.png) 
+![Arsenal](http://www.toolswatch.org/wp-content/uploads/2017/07/bh-arsenals-github-1.png) 
 
 This github account maps to the Black Hat Arsenal tools since its inception in 2011. 
 For readibility, the tools are classified by category and not by session. 
