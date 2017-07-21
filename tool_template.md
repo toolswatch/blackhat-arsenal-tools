@@ -25,6 +25,9 @@ https://github.com/CISOfy/lynis
 ### Main developer
  Michael Boelen - Cisofy https://github.com/CISOfy
 
+### Social Media 
+* [Twitter](https://twitter.com/mboelen)
+* [Company Website](https://cisofy.com/) 
 ----
 
 
