@@ -9,6 +9,8 @@ This account is maintained by [ToolsWatch.org](https://www.toolswatch.org) the o
 
 [Contact us in twitter](https://twitter.com/toolswatch)
 
+**Disclaimer**: Tools not demonstrated during a Black Hat Arsenal session will not be accepted
+
 ### How to Submit ? 
 
 Submit your template to the **most one representative categor**y as a pull request. After review, we will reflect the change on the repo.
