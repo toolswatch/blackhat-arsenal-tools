@@ -23,9 +23,9 @@ https://github.com/dradis/dradis-ce
 
 
 ### Main developers
-Daniel Martin - Security Roots https://github.com/etdsoft
-Xavi Vila - Security Roots https://github.com/dormi
-Aaron Manaloto - Security Roots https://github.com/aapomm
+* Daniel Martin - Security Roots https://github.com/etdsoft
+* Xavi Vila - Security Roots https://github.com/dormi
+* Aaron Manaloto - Security Roots https://github.com/aapomm
 
 
 ### Social Media
