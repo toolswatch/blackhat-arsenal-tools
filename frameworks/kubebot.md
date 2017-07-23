@@ -7,6 +7,8 @@ Kubebot uses Slack as the frontend - as a way to send API requests but this can 
 
 Kubebot also gives the flexibility of setting up scheduled job runs using the K8S cronjob.
 
+
+
 ### Categories
 * Frameworks
 * Security Testing
@@ -14,14 +16,22 @@ Kubebot also gives the flexibility of setting up scheduled job runs using the K8
 * Automation
 * Containers
 
+
+
 ### Black Hat sessions
-[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://rawgithub.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+
+
 
 ### Code
 https://github.com/anshumanbh/kubebot
 
+
+
 ### Main developer
  Anshuman Bhartiya - anshumanbh https://github.com/anshumanbh
+
+
 
 ### Social Media
 * [Twitter](https://twitter.com/anshuman_bh)
