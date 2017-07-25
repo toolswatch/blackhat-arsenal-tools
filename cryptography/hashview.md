@@ -9,7 +9,7 @@ Hashview is a web front-end to hashcat with many powerful features geared toward
 * Reporting
 
 ### Black Hat sessions
-[![Hashview](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#hashview)
+[![Hashview](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#hashview-8019)
  
 ### Code 
 https://github.com/hashview/hashview
