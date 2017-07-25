@@ -15,13 +15,13 @@ Hashview is a web front-end to hashcat with many powerful features geared toward
 https://github.com/hashview/hashview
 
 ### Main developers
- Hans lakhan - i128 https://github.com/i128
- Casey Cammilleri - ccammilleri https://github.com/ccammilleri
+ * Hans lakhan - i128 https://github.com/i128
+ * Casey Cammilleri - ccammilleri https://github.com/ccammilleri
 
 ### Social Media 
-* [Twitter](https://twitter.com/jarsnah12)
-* [Twitter](https://twitter.com/CaseyCammilleri)
-* [Company Website](https://www.hashview.io/) 
+* [@jarsnah12](https://twitter.com/jarsnah12)
+* [@caseycammilleri](https://twitter.com/CaseyCammilleri)
+* [https://www.hashview.io](https://www.hashview.io/) 
 ----
 * 2017:
     * badge: https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg
