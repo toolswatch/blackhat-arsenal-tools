@@ -21,7 +21,7 @@ https://github.com/hashview/hashview
 ### Social Media 
 * [@jarsnah12](https://twitter.com/jarsnah12)
 * [@caseycammilleri](https://twitter.com/CaseyCammilleri)
-* [https://www.hashview.io](https://www.hashview.io/) 
+* [http://www.hashview.io](https://www.hashview.io/) 
 ----
 * 2017:
     * badge: https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg
