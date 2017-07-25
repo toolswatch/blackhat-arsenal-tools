@@ -9,14 +9,7 @@ Hashview is a web front-end to hashcat with many powerful features geared toward
 * Reporting
 
 ### Black Hat sessions
-[![Hashview](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal#hashview)
-
-Example:
-
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
-
-Check the valid links and badges in **badge** 
+[![Hashview](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#hashview)
  
 ### Code 
 https://github.com/hashview/hashview
