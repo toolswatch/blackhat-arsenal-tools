@@ -22,8 +22,3 @@ https://github.com/hashview/hashview
 * [@jarsnah12](https://twitter.com/jarsnah12)
 * [@caseycammilleri](https://twitter.com/CaseyCammilleri)
 * [http://www.hashview.io](https://www.hashview.io/) 
-----
-* 2017:
-    * badge: https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg
-        * Asia Session: https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/
-        * USA Session: http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/
