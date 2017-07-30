@@ -25,6 +25,10 @@ OWTF includes:
 * Pentest
 * Vulnerability assessment
 
+### Black Hat sessions
+
+[![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+
 ### Code
 https://github.com/owtf/owtf
 
@@ -47,7 +51,3 @@ https://github.com/owtf/owtf
 * [Slideshare](http://www.slideshare.net/abrahamaranguren/presentations)
 * [Blog](http://blog.7-a.org/search/label/OWTF)
 
-
-### Black Hat sessions
-
-[![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
