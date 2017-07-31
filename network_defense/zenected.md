@@ -17,8 +17,6 @@ If you are a __Zenected__ end-user what you will like about it, is:
 
 For more info and resources visit: https://zenected.com
 
-__Zenected__ code posted on GitHub is licensed under GNU General Public License (https://www.gnu.org/licenses/gpl-3.0.en.html).
-
 ### Categories
 * Network Defense
 * Hardening
@@ -36,8 +34,8 @@ https://github.com/perunworks/zenected
 
 ### Social Media 
 * [Twitter](https://twitter.com/perunhimself)
-* [Facebook] (https://www.facebook.com/Perun-Works-1605484713040277/)
-* [LinkedIn] (https://www.linkedin.com/company-beta/10580623/)
+* [Facebook](https://www.facebook.com/Perun-Works-1605484713040277/)
+* [LinkedIn](https://www.linkedin.com/company-beta/10580623/)
 * [Company Website](https://www.perunworks.com/) 
 ----
 
