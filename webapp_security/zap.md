@@ -20,7 +20,7 @@ Some of the built in features include: Intercepting proxy server, Traditional an
 [![Black Hat Arsenal EU](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
 [![Black Hat Arsenal USA](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/)
 
-### Popularity
+### Popularity
 
 ToolsWatch Annual Best Free/Open Source Security Tool Survey:
 * 2013 - [![1st](https://www.toolswatch.org/badges/toptools/rank1_2013.svg)](https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers) (1st)
