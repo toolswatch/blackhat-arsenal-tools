@@ -11,6 +11,10 @@ WarBerryPi was built to be used as a hardware implant during red teaming scenari
 
  [![Black Hat Arsenal USA ](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
 [![Black Hat Europe](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+
+### Popularity
+
+[![ToolsWatch Best Tools](https://www.toolswatch.org/badges/toptools/2016.svg)](https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
  
 ### Code 
 https://github.com/secgroundzero/warberry
@@ -20,11 +24,3 @@ https://github.com/secgroundzero/warberry
 
 ### Social Media 
 * [Twitter](https://twitter.com/sec_groundzero)
-----
-
-
-#### Badge
-        
-[![ToolsWatch Best Tools](https://www.toolswatch.org/badges/toptools/2016.svg)](https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
-
-
