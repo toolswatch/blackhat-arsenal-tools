@@ -26,10 +26,6 @@ https://github.com/secgroundzero/warberry
 #### Badge
         
 [![ToolsWatch Best Tools](https://www.toolswatch.org/badges/toptools/2016.svg)](https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/)
+[![Black Hat Arsenal USA ](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
+[![Black Hat Europe](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
 
-* 2016:
-    * badge: https://github.com/toolswatch/badges/blob/master/arsenal/2016.svg
-        * USA Session:  https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/
-        * Europe Session:  https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/
-       
-                    
