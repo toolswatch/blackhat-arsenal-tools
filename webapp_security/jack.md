@@ -5,8 +5,8 @@ Jack is a web based ClickJacking PoC development assistance tool.
 Jack makes use of static HTML and JavaScript to create a drag n drop environment to illustrate the impact of ClickJacking.
 
 ### Categories
-* Vulnerability assessment
 * Webb Application Security
+* Vulnerability assessment
 * Phishing
 
 ### Black Hat sessions
