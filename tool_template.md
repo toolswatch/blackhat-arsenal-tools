@@ -18,7 +18,17 @@ Example:
 [![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
 
 Check the valid links and badges in **badge** 
+
+### Popularity
+
+ToolsWatch Annual Best Free/Open Source Security Tool Survey:
+* 2013 - [![6th](https://www.toolswatch.org/badges/toptools/rank1_2013.svg)](https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers)
+* 2014 - [![3rd](https://www.toolswatch.org/badges/toptools/2014.svg)](https://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers)
+* 2015 - [![2nd](https://www.toolswatch.org/badges/toptools/rank1_2015.svg)](https://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers)
+* 2016 - [![10th](https://www.toolswatch.org/badges/toptools/2016.svg)](https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers)
  
+Check the valid links and badges in **badge** 
+
 ### Code 
 https://github.com/CISOfy/lynis
 
@@ -31,7 +41,8 @@ https://github.com/CISOfy/lynis
 ----
 
 
-#### Badge
+### Badge
+#### Arsenal
 Once the links and badges selected. You can remove this section Badge before submission.
 
 * 2011:
@@ -70,3 +81,34 @@ Once the links and badges selected. You can remove this section Badge before sub
         * Asia Session: https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/
         * USA Session: http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/
               
+#### ToolsWatch Survey
+
+* 2013:
+    * link: https://www.toolswatch.org/2013/12/2013-top-security-tools-as-voted-by-toolswatch-org-readers/
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2013.svg 
+    
+* 2014:
+    * link: https://www.toolswatch.org/2015/01/2014-top-security-tools-as-voted-by-toolswatch-org-readers/ 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2014.svg 
+
+* 2015:
+    * link: https://www.toolswatch.org/2016/02/2015-top-security-tools-as-voted-by-toolswatch-org-readers/ 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2015.svg
+    
+* 2016:
+    * link: https://www.toolswatch.org/2017/02/2016-top-security-tools-as-voted-by-toolswatch-org-readers/ 
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/2016.svg 
+
+If your tool was ranked 1st, consider using the following badges:
+
+* 2013:
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2013.svg 
+    
+* 2014:
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2014.svg
+
+* 2015:
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2015.svg
+   
+* 2016:
+    * badge: https://github.com/toolswatch/badges/blob/master/toptools/rank1_2016.svg
