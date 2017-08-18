@@ -13,7 +13,7 @@ This tool automates the process of creating logon relations from MS Windows Secu
 ### Code 
 https://github.com/thiber-org/userline
 
-### Main developer
+### Lead Developer
  Chema Garcia - https://github.com/sch3m4
 
 ### Social Media 
