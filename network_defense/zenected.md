@@ -29,7 +29,7 @@ For more info and resources visit: https://zenected.com
 ### Code 
 https://github.com/perunworks/zenected
 
-### Main developer
+### Lead Developer
  Tomasz Jakubowski @ Perun Works https://github.com/perunworks
 
 ### Social Media 
