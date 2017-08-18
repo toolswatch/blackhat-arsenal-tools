@@ -58,11 +58,10 @@ _This project has been developed as Term Project at Middle East Technical Univer
 ### Code
 https://github.com/YalcinYolalan/WSSAT
 
-### Project leaders
+### Lead Developers
 
 - Mehmet Yalçın YOLALAN (https://www.linkedin.com/in/yalcinyolalan/)
 - Salih TALAY (https://www.linkedin.com/in/salih-talay-49025238/)
-
 
 ### Social Media
 
