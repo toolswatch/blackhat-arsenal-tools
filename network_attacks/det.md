@@ -14,7 +14,7 @@ DET aims to provide a framework to assist with exfiltrating data using either on
 ### Code
 https://github.com/PaulSec/DET
 
-### Main developer
+### Lead Developer
 * Paul Amar (@PaulWebSec) - https://github.com/PaulSec
 
 ### Social Media
