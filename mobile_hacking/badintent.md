@@ -15,7 +15,7 @@ BadIntent integrates Android's Binder framework with Burp Suite. It enables pent
 ### Code 
 https://github.com/mateuszk87/BadIntent
 
-### Main developer
+### Lead Developer
 Mateusz Khalil - https://github.com/mateuszk87/
 
 ### Social Media 
