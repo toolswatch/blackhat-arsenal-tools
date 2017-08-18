@@ -14,7 +14,7 @@ Hashview is a web front-end to hashcat with many powerful features geared toward
 ### Code 
 https://github.com/hashview/hashview
 
-### Main developers
+### Lead Developers
  * Hans lakhan - i128 https://github.com/i128
  * Casey Cammilleri - ccammilleri https://github.com/ccammilleri
 
