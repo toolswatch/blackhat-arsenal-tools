@@ -25,7 +25,7 @@ For more information on the LoRa PHY and Matt's blind signal analysis process:
 ### Code 
 https://github.com/BastilleResearch/gr-lora
 
-### Main developer
+### Lead Developer
  Matt Knight - https://github.com/matt-knight
 
 ### Social Media 
