@@ -32,7 +32,7 @@ OWTF includes:
 ### Code
 https://github.com/owtf/owtf
 
-### Project leaders
+### Lead Developers
 
 - Abraham Aranguren (https://twitter.com/7a_)
 - Bharadwaj Machiraju (https://twitter.com/tunnelshade_)
