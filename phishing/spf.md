@@ -13,7 +13,7 @@ SPF (SpeedPhish Framework) is a python tool designed to allow for quick recon an
 ### Code 
 https://github.com/tatanus/SPF
 
-### Main developer
+### Lead Developer
 Adam Compton - https://github.com/tatanus
 
 ### Social Media 
