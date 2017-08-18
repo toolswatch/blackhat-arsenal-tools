@@ -33,7 +33,7 @@ Check the valid links and badges in **badge**
 ### Code 
 https://github.com/CISOfy/lynis
 
-### Main developer
+### Lead Developer(s)
  Michael Boelen - Cisofy https://github.com/CISOfy
 
 ### Social Media 
