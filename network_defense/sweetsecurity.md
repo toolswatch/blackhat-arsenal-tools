@@ -31,7 +31,7 @@ __Server__
 ### Code 
 https://github.com/travisfsmith/sweetsecurity
 
-### Main developer
+### Lead Developer
  Travis Smith
 
 ### Social Media 
