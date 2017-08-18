@@ -7,7 +7,7 @@ techniques
 
 Supports: VMWare (client/servers), XEN and physical systems (PAGEDUMP).
 
-### Integrity
+#### Integrity
 Users can manage their own "golden images" of secure hashes used to ensure no byte slipps through the cracks
 of a forensic, reverse engineering, sandbox analysis or host integrity monitoring operation.
 
@@ -19,7 +19,7 @@ The block based integrity checks occur at a configurable size and will isolate v
 Integrity checking provides confidence to useres that they have analyzed "everything" and they have not wasted 
 time looking in the wrong plaes.
 
-### Memory Hacking
+#### Memory Hacking
 An IronPython shell is able to use native type reflection that allwos for reading and writing physical memory dumps.  Test a new 
 kernel patch or improve inVtero itself.  (e.g. edit _EPROCESS objects from python and write them back to a VM image then resume
 exection to observe DMA style hacking with very easy scripts that map 1:1 to known symbol sources)
@@ -27,7 +27,7 @@ exection to observe DMA style hacking with very easy scripts that map 1:1 to kno
 Recent modules include a Gargoyle detection mechanism that uses the type information extracted from the systems to allow for
 an exhaustive verification of thread stack states that can detect the preseanse of RoP type _weird machienes_.
 
-### Performance
+#### Performance
 A goal of the project is to provide high quality assurace as quickly as possiable.  To avoid the common pitfall of many debuggers 
 and forensic platforms that are trivially compromised.  
 
@@ -43,7 +43,7 @@ and forensic platforms that are trivially compromised.
 ### Code 
 https://github.com/ShaneK2/inVtero.net
 
-### Main developer
+### Lead Developer
 K2 - https://github.com/K2
 
 ### Social Media 
