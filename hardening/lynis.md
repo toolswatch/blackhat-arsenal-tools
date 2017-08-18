@@ -24,7 +24,7 @@ ToolsWatch Annual Best Free/Open Source Security Tool Survey:
 ### Code 
 https://github.com/CISOfy/lynis
 
-### Main developer
+### Lead Developer
  Michael Boelen - CISOfy https://github.com/CISOfy
 
 ### Social Media 
