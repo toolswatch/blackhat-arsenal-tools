@@ -15,7 +15,7 @@ Jack makes use of static HTML and JavaScript to create a drag n drop environment
 ### Code 
 https://github.com/sensepost/jack
 
-### Main developer
+### Lead Developer
  Chris Le Roy - SensePost https://github.com/sensepost
 
 ### Social Media 
