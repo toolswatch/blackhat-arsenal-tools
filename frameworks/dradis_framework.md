@@ -10,7 +10,6 @@ Free forever and open source.
 * Reporting
 * Frameworks
 
-
 ### Black Hat sessions
 [![Arsenal](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
 [![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
@@ -21,12 +20,10 @@ Free forever and open source.
 ### Code
 https://github.com/dradis/dradis-ce
 
-
-### Main developers
+### Lead Developers
 * Daniel Martin - Security Roots https://github.com/etdsoft
 * Xavi Vila - Security Roots https://github.com/dormi
 * Aaron Manaloto - Security Roots https://github.com/aapomm
-
 
 ### Social Media
 * [Forum](http://discuss.dradisframework.org)
