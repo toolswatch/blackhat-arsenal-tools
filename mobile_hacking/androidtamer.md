@@ -25,4 +25,3 @@ https://github.com/AndroidTamer/AndroidTamer
 * [Official Website](https://androidtamer.com/) 
 * [Twitter](https://twitter.com/AndroidTamer)
 * [Facebook](https://facebook.com/AndroidTamer)
-----
