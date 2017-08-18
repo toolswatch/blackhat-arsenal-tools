@@ -19,7 +19,7 @@ WarBerryPi was built to be used as a hardware implant during red teaming scenari
 ### Code 
 https://github.com/secgroundzero/warberry
 
-### Main developer
+### Lead Developer
  Yiannis Ioannides - https://github.com/secgroundzero/warberry
 
 ### Social Media 
