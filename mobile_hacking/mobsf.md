@@ -18,7 +18,7 @@ Mobile Security Framework (MobSF) is an intelligent, all-in-one open source mobi
 ### Code 
 https://github.com/MobSF/Mobile-Security-Framework-MobSF/
 
-### Main developer
+### Lead Developer
  Ajin Abraham - OpenSecurity https://github.com/ajinabraham
 
 ### Social Media 
