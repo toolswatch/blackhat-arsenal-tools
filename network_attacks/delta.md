@@ -14,7 +14,7 @@ DELTA is a first SDN security evaluation framework, which has two primary functi
 ### Code
 https://github.com/OpenNetworkingFoundation/DELTA
 
-### Main developer
+### Lead Developers
 * Seungsoo Lee [seungsoo-lee] - https://github.com/seungsoo-lee
 * Jinwoo Kim [jinwoookim] - https://github.com/jinwoookim
 
