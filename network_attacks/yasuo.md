@@ -24,7 +24,7 @@ Yasuo is built to quickly scan the network for such vulnerable applications thus
 https://github.com/0xsauby/yasuo
 
 
-### Main developer
+### Lead Developer
 * Saurabh Harit [0xsauby] - https://github.com/0xsauby
 
 
