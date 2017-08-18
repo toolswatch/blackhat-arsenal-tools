@@ -15,10 +15,10 @@ Kwetza is a tool that allows you to infect an existing Android application with 
 ### Code 
 https://github.com/sensepost/kwetza
 
-### Main developer
+### Lead Developer
  Chris Le Roy - SensePost https://github.com/sensepost
 
 ### Social Media 
 * [Twitter](https://twitter.com/brompwnie)
 * [Company Website](https://sensepost.com/) 
-----
+
