@@ -27,7 +27,7 @@ Leverages a [lightly modified](https://github.com/s0lst1c3/hostapd-eaphammer) ve
 ### Code 
 https://github.com/s0lst1c3/eaphammer
 
-### Main developer
+### Lead Developer
  Gabriel Ryan - s0lst1c3 https://github.com/s0lst1c3
 
 ### Social Media 
