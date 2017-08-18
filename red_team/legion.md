@@ -12,7 +12,7 @@ At its core, Legion is a distributed computing application. It is written in pyt
 ### Code 
 https://github.com/MooseDojo/Legion
 
-### Main developer
+### Lead Developers
 * Adam Compton - https://github.com/tatanus https://github.com/MooseDojo
 * Bill Harshbarger - https://github.com/bharshbarger https://github.com/MooseDojo
 
