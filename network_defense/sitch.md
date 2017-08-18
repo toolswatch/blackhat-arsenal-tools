@@ -20,7 +20,7 @@ Slides and supporting assets from the Black Hat Arsenal talk can be found [here]
 
 https://github.com/sitch-io
 
-### Main developer
+### Lead Developer
 
 Ash Wilson - https://github.com/ashmastaflash
 
