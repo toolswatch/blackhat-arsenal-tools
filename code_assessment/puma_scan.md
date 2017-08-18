@@ -21,10 +21,9 @@ Puma Scan is a software security Visual Studio analyzer extension built on top o
 
 #### BlackHat Arsenal sessions
 
-* 2017:
-    * [![Black Hat Arsenal](https://www.pumascan.com/images/bh-arsenal-2017.svg)](https://www.blackhat.com/asia-17/arsenal.html#eric-johnson): 
-        * BlackHat Asia: [https://www.blackhat.com/asia-17/arsenal.html#eric-johnson](https://www.blackhat.com/asia-17/arsenal.html#eric-johnson)
-        * BlackHat USA: [https://www.blackhat.com/us-17/arsenal/schedule/#puma-scan-7903](https://www.blackhat.com/us-17/arsenal/schedule/#puma-scan-7903)
+[![Black Hat Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)
+[![Black Hat Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+
               
 ### Code 
 [https://github.com/pumasecurity/puma-scan](https://github.com/pumasecurity/puma-scan)
