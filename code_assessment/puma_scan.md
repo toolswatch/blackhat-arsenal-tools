@@ -23,11 +23,9 @@ Puma Scan is a software security Visual Studio analyzer extension built on top o
 [https://github.com/pumasecurity/puma-scan](https://github.com/pumasecurity/puma-scan)
 
 ### Lead Developers
- Eric Johnson ([@emjohn20](https://twitter.com/emjohn20)) - [https://pumascan.com/about.html](https://pumascan.com/about.html)
-
-Eric Mead ([@ericmmead](https://twitter.com/ericmmead)) - [https://pumascan.com/about.html](https://pumascan.com/about.html)
-
-Aaron Cure ([@curea](https://twitter.com/curea)) - [https://pumascan.com/about.html](https://pumascan.com/about.html)
+* Eric Johnson ([@emjohn20](https://twitter.com/emjohn20)) - [https://pumascan.com/about.html](https://pumascan.com/about.html)
+* Eric Mead ([@ericmmead](https://twitter.com/ericmmead)) - [https://pumascan.com/about.html](https://pumascan.com/about.html)
+* Aaron Cure ([@curea](https://twitter.com/curea)) - [https://pumascan.com/about.html](https://pumascan.com/about.html)
 
 ### Social Media 
 * [Twitter](https://twitter.com/puma_scan)
