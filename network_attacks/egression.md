@@ -19,11 +19,11 @@ Many tools of this type work by testing outbound port connections alone, but Egr
 https://github.com/danielmiessler/egression
 
 
-### Main developer
+### Lead Developer
 * Daniel Miessler [@danielmiessler] - https://github.com/danielmiessler
 
 
-### Elsewhere
+### Social Media
 * [Website](https://danielmiessler.com/)
 * [Twitter](https://twitter.com/danielmiessler)
 * [Podcast](https://danielmiessler.com/podcast/)
