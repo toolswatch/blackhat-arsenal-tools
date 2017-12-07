@@ -20,6 +20,7 @@ https://github.com/whid-injector/WHID
 
 ### Lead Developer(s)
  Luca Bongiorni - https://twitter.com/LucaBongiorni
+ 
  Corey Harding - https://twitter.com/exploit_agency
 
 ### Social Media 
