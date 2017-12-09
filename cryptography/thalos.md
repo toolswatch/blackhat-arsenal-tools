@@ -18,10 +18,10 @@ Thalos is a secure and distributed system for file storage in untrusted environm
 https://github.com/ecleipteon/Thalos
 
 ### Lead Developer(s)
-Luca Maria Castiglione - MSc student @ UniNa
+Luca Maria Castiglione - MSc student @ UniNa (ecleipteon@thalos.me)
 
 ### Social Media 
 * [Twitter](https://twitter.com/ecleipteon)
-* [Website](https://thalos.me/) 
+* [Website](https://ecleipteon.github.io/Thalos/) 
 
 
