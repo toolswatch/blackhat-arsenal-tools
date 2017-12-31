@@ -12,7 +12,7 @@ With a large number of IP addresses performing the attacks, better results are g
 [Presentation] https://www.slideshare.net/tzanany/pymultitor-74222570  
 
 ### Categories
-* Webb Application Security
+* Web Application Security
 * Pentest
 
 ### Black Hat sessions
