@@ -6,8 +6,9 @@ It is designed to detect illegal wireless network activities performed by specia
 
 **WiPi-Hunter Modules**
 + **PiSavar**:  Detects activities of PineAP module and starts deauthentication attack (for fake access points - WiFi Pineapple Activities Detection) 
-+ **PiFinge**r: Searches for wifi-pineapple traces and calculate wireless network security score 
-+ **PiDense**:  Monitor illegal wireless network activities. (Fake Access Points) 
++ **PiFinger**: Searches for wifi-pineapple traces and calculate wireless network security score 
++ **PiDense** :  Monitor illegal wireless network activities. (Fake Access Points) 
++ **PiKarma** :  Detects wireless network attacks performed by KARMA module (fake AP). Starts deauthentication attack (for fake access points)
 
 #### Categories
 
@@ -42,3 +43,4 @@ Besim ALTINOK
 #### Demo Videos
 
 + https://www.youtube.com/playlist?list=PLwHi7Vsh6TpPm0Ax5bP-jWGAJR0WK_Ok0
++ https://www.youtube.com/playlist?list=PLwHi7Vsh6TpNrCX87KRzO9WVtHmqqC2aB
