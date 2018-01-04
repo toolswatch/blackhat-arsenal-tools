@@ -81,6 +81,7 @@ Once the links and badges selected. You can remove this section Badge before sub
     * badge: https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg
         * Asia Session: https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/
         * USA Session: http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/
+        * Europe Session : https://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/
               
 #### ToolsWatch Survey
 
