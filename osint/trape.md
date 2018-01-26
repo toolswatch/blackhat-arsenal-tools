@@ -20,8 +20,8 @@ https://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/
 https://github.com/boxug/trape
 
 ### Developers
- Jose Pino - https://twitter.com/jofpin
- Jhonathan Espinosa - https://twitter.com/st4nn
+* Jose Pino - [@jofpin](https://twitter.com/jofpin) - (**CEO & Founder at [boxug](https://boxug.com)**) 
+* Jhonathan Espinosa - [@st4nn](https://twitter.com/st4nn) - (**CTO at [boxug](https://boxug.com)**)
 
 ### Social Media 
 * [Twitter](https://twitter.com/boxug)
