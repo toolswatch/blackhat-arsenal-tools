@@ -13,6 +13,9 @@ Trape is a recognition tool that allows you to track people, the information you
 * Open Source Intelligence (**OSINT**)
 * Phishing
 
+### Black Hat sessions
+https://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/ 
+
 ### Code 
 https://github.com/boxug/trape
 
