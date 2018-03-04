@@ -18,7 +18,7 @@ Example:
 
 [![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](http://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
 
-Check the valid links and badges in **badge** 
+
 
 
 ### Code 
