@@ -11,16 +11,16 @@ The purpose of this application is to warn the user (on twitter) whenever her la
 
 
 ### Black Hat sessions
-[![Arsenal Asia 2018]()](http://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
 
-### Code 
+### Code
 * https://github.com/owasp-id/SecureTea
 * https://www.owasp.org/index.php/OWASP_SecureTea_Project
 
 ### Lead Developer(s)
-* Bambang Rahmadi k.payu
-* Ade Yoseman 
+* Bambang Rahmadi K.P
+* Ade Yoseman Putra
 
-### Social Media 
+### Social Media
 * [Twitter](https://twitter.com/OwaspJakarta/)
-* [Company Website](https://owasp.or.id/) 
+* [Company Website](https://owasp.or.id/)
