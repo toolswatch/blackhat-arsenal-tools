@@ -23,4 +23,4 @@ The purpose of this application is to warn the user (on twitter) whenever her la
 
 ### Social Media
 * [Twitter](https://twitter.com/OwaspJakarta/)
-* [Company Website](https://owasp.or.id/)
+* [Company Website](http://owasp.or.id/)
