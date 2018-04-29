@@ -9,6 +9,7 @@ This tool automates the process of creating logon relations from MS Windows Secu
 
 ### Black Hat sessions
 [![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2018.svg)](http://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
  
 ### Code 
 https://github.com/thiber-org/userline

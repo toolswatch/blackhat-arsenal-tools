@@ -11,6 +11,9 @@ With this tool, all web services could be analysed at once and the overall secur
 * See overall security assessment with reports
 * Harden their web services
 
+# WSSAT 2.0
+**REST API** scanning support was added with same dynamic vulnerability management environment philosophy as SOAP services. [ChangeLog](https://github.com/YalcinYolalan/WSSAT/blob/master/CHANGELOG.md)
+
 **WSSAT’s main capabilities include:**
 
 **Dynamic Testing:**
@@ -53,7 +56,7 @@ _This project has been developed as Term Project at Middle East Technical Univer
 
 ### Black Hat sessions
 
-[![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/2016.svg)](https://www.blackhat.com/us-16/arsenal.html#web-service-security-assessment-tool-wssat) [![Black Hat Arsenal Europe](https://rawgit.com/toolswatch/badges/master/arsenal/2016.svg)](https://www.blackhat.com/eu-16/arsenal.html#wssat-web-service-security-assessment-tool)
+[![Black Hat Arsenal USA](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.blackhat.com/us-16/arsenal.html#web-service-security-assessment-tool-wssat) [![Black Hat Arsenal Europe](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.blackhat.com/eu-16/arsenal.html#wssat-web-service-security-assessment-tool)
 
 ### Code
 https://github.com/YalcinYolalan/WSSAT
