@@ -15,8 +15,8 @@ Insert your badge.
 
 Example:
 
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
 
 Check the valid links and badges in **badge**
 
