@@ -9,8 +9,8 @@ JTAGulator is an open source hardware hacking tool that assists in identifying o
 * Vulnerability assessment
 
 ### Black Hat sessions
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2014.svg)](https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/)
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2014.svg)](https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
 
 ### Code 
 https://github.com/grandideastudio/jtagulator

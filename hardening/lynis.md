@@ -8,9 +8,9 @@ Lynis is a security auditing tool for sytems running Linux, macOS, BSD, and othe
 * Vulnerability assessment
 
 ### Black Hat sessions
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2016.svg)](http://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](http://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
  
 ### Popularity
 

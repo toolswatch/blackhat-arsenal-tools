@@ -9,8 +9,8 @@ Pentesters spend too much time during information gathering phase. Flashlight (F
 
 
 ### Black Hat sessions
-[![ToolsWatch 2014 Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2014.svg)](https://www.blackhat.com/us-14/arsenal.html#Alkan)
-[![ToolsWatch 2015 Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2015.svg)](http://www.blackhat.com/us-15/arsenal.html#heybe-pentest-automation-toolkit)
+[![ToolsWatch 2014 Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2014.svg)](https://www.blackhat.com/us-14/arsenal.html#Alkan)
+[![ToolsWatch 2015 Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2015.svg)](http://www.blackhat.com/us-15/arsenal.html#heybe-pentest-automation-toolkit)
 
 
 ### Code

@@ -13,7 +13,7 @@ Full details and usage instructions can be found [here](https://objective-see.co
 
 
 ### Black Hat sessions
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
  
 ### Code 
 https://github.com/objective-see/LuLu

@@ -16,8 +16,8 @@ Yasuo is built to quickly scan the network for such vulnerable applications thus
 
 
 ### Black Hat sessions
-[![ToolsWatch 2016 Arsenal](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.blackhat.com/eu-16/arsenal.html)
-[![ToolsWatch 2017 Arsenal](https://rawgithub.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html#yasuo-7909)
+[![ToolsWatch 2016 Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](https://www.blackhat.com/eu-16/arsenal.html)
+[![ToolsWatch 2017 Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html#yasuo-7909)
 
 
 ### Code

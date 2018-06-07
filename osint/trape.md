@@ -14,7 +14,7 @@ Trape is a recognition tool that allows you to track people, the information you
 * Phishing
 
 ### Black Hat sessions
-https://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/ 
+[![Arsenal-2018](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2018.svg)](https://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
 
 ### Code 
 https://github.com/boxug/trape

@@ -12,7 +12,7 @@ Many tools of this type work by testing outbound port connections alone, but Egr
 
 
 ### Black Hat sessions
-[![ToolsWatch 2017 Arsenal](https://rawgithub.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html)
+[![ToolsWatch 2017 Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html)
 
 
 ### Code
