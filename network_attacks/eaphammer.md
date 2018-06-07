@@ -22,7 +22,7 @@ Leverages a [lightly modified](https://github.com/s0lst1c3/hostapd-eaphammer) ve
 * WPA-EAP/WPA2-EAP
 
 ### Black Hat sessions
-[![Black Hat Arsenal](https://cdn.rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](https://www.blackhat.com/us-17/arsenal.html#eaphammer) 
+[![Black Hat Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal.html#eaphammer) 
  
 ### Code 
 https://github.com/s0lst1c3/eaphammer

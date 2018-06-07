@@ -16,9 +16,9 @@ With a large number of IP addresses performing the attacks, better results are g
 * Pentest
 
 ### Black Hat sessions
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)]( https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)  
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)]( https://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)  
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)]( https://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)  
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2017.svg)]( https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)  
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)]( https://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)  
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)]( https://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)  
  
 ### Code 
 https://github.com/realgam3/pymultitor

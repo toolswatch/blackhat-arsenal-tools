@@ -27,7 +27,7 @@ OWTF includes:
 
 ### Black Hat sessions
 
-[![Black Hat Arsenal USA](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Black Hat Arsenal USA](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
 
 ### Code
 https://github.com/owtf/owtf

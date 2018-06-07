@@ -10,7 +10,7 @@ OpticSpy consists of two open source hardware modules that provide a low-cost wa
 * Malware research
 
 ### Black Hat sessions
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
 
 ### Additional Resources 
 http://www.grandideastudio.com/portfolio/optical-covert-channels/

@@ -16,9 +16,9 @@ Some of the built in features include: Intercepting proxy server, Traditional an
 
 ### Black Hat sessions
 
-[![Black Hat Arsenal USA](https://www.toolswatch.org/badges/arsenal/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
-[![Black Hat Arsenal EU](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
-[![Black Hat Arsenal USA](https://www.toolswatch.org/badges/arsenal/2014.svg)](https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/)
+[![Black Hat Arsenal USA](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+[![Black Hat Arsenal EU](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2014.svg)](https://www.toolswatch.org/2014/09/lineup-for-the-blackhat-arsenal-europe-2014/)
+[![Black Hat Arsenal USA](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2014.svg)](https://www.toolswatch.org/2014/06/black-hat-usa-2014-arsenal-tools-speaker-list/)
 
 ### Popularity
 

@@ -12,7 +12,7 @@ Mobile Security Framework (MobSF) is an intelligent, all-in-one open source mobi
 
 ### Black Hat sessions
 
-[![Arsenal](https://www.toolswatch.org/badges/arsenal/2015.svg)](https://www.toolswatch.org/2015/03/black-hat-asia-2015-arsenal-speaker-list/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2015.svg)](https://www.toolswatch.org/2015/03/black-hat-asia-2015-arsenal-speaker-list/)
 
  
 ### Code 

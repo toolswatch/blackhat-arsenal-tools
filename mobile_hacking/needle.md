@@ -14,9 +14,9 @@ With the release of Needle v1.0.0, we provided a major overhaul of its core and 
 
 ### Black Hat sessions
 
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
-[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
  
 ### Code 
 
