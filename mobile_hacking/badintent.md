@@ -9,7 +9,7 @@ BadIntent integrates Android's Binder framework with Burp Suite. It enables pent
 * Reverse Engineering
 
 ### Black Hat sessions
-[![Arsenal US 2017](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#badintent---integrating-android-with-burp-8044)
+[![Arsenal US 2017](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#badintent---integrating-android-with-burp-8044)
 
  
 ### Code 

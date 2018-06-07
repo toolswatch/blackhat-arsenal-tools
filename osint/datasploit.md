@@ -26,15 +26,15 @@ https://github.com/datasploit/datasploit
 
 [DEFCON 24 Demolabs](https://www.defcon.org/html/defcon-24/dc-24-demolabs.html)
 
-[![Arsenal-2017-EU](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
+[![Arsenal-2017-EU](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
 
-[![Arsenal-2017-US](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal-2017-US](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
 
-[![Arsenal-2017-ASIA](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2017.svg)](http://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)
+[![Arsenal-2017-ASIA](https://rawgit.com/toolswatch/badges/master/arsenal/asia/2017.svg)](http://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)
 
-[![Arsenal-2016-EU](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](http://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+[![Arsenal-2016-EU](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2016.svg)](http://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
 
-[![Arsenal-2016-US](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2016.svg)](http://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
+[![Arsenal-2016-US](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2016.svg)](http://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
 
 ### Documentation
 https://datasploit.github.io/datasploit/

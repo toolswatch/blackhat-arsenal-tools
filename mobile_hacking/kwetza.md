@@ -10,7 +10,7 @@ Kwetza is a tool that allows you to infect an existing Android application with 
 
 ### Black Hat sessions
 
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
  
 ### Code 
 https://github.com/sensepost/kwetza

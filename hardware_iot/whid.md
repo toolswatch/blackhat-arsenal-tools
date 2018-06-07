@@ -13,7 +13,7 @@ Based on an Atmega 32u4 (i.e. Keyboard, mouse and serial emulation) and a ESP-12
 
 ### Black Hat sessions
 
-[![Black Hat Arsenal EU](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)](https://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
+[![Black Hat Arsenal EU](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2017.svg)](https://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
 
 ### Code 
 https://github.com/whid-injector/WHID

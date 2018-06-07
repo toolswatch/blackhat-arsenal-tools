@@ -17,7 +17,7 @@ Cloud Security Suite - One stop tool for auditing the security posture of AWS in
 * Infrastructure and Server Auditing
 
 ## Presented At:
-[![Arsenal-2017-EU](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/) 
+[![Arsenal-2017-EU](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/) 
 
 ## Pre-requisites for Manual setup
 * Python 2.7
