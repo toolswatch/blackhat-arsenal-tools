@@ -12,7 +12,7 @@ Halcyon IDE can understand Nmap library as well as traditional LUA syntax. Possi
 * Vulnerability assessment
 
 ### Black Hat sessions
-[![Arsenal (USA)](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2016.svg)](http://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)  [![Arsenal (ASIA)](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2016.svg)](http://www.toolswatch.org/2016/03/black-hat-arsenal-asia-2016-speakers-line-up/) 
+[![Arsenal (USA)](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2016.svg)](http://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)  [![Arsenal (ASIA)](https://rawgit.com/toolswatch/badges/master/arsenal/asia/2016.svg)](http://www.toolswatch.org/2016/03/black-hat-arsenal-asia-2016-speakers-line-up/) 
 
 ### Popularity
 

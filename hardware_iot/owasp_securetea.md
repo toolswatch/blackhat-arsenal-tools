@@ -11,7 +11,7 @@ The purpose of this application is to warn the user (on twitter) whenever her la
 
 
 ### Black Hat sessions
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2018.svg)](http://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/asia/2018.svg)](http://www.toolswatch.org/2018/01/black-hat-arsenal-asia-2018-great-lineup/)
 
 ### Code
 * https://github.com/owasp-id/SecureTea

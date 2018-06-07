@@ -8,7 +8,7 @@ BSODomizer HD is an open source, FPGA-based, covert electronic device that injec
 * Red Team
 
 ### Black Hat sessions
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
 
 ### Code
 https://github.com/joegrand/bsodomizer-hd-c5g

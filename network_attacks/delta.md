@@ -9,7 +9,7 @@ DELTA is a first SDN security evaluation framework, which has two primary functi
 * Frameworks
 
 ### Black Hat sessions
-[![ToolsWatch 2017 Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#delta-sdn-security-evaluation-framework-7466)
+[![ToolsWatch 2017 Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/#delta-sdn-security-evaluation-framework-7466)
 
 ### Code
 https://github.com/OpenNetworkingFoundation/DELTA

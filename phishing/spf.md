@@ -8,7 +8,7 @@ SPF (SpeedPhish Framework) is a python tool designed to allow for quick recon an
 * Frameworks
 
 ### Black Hat sessions
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2015.svg)](https://www.toolswatch.org/2015/06/black-hat-arsenal-usa-2015-speakers-lineup/)
 
 ### Code 
 https://github.com/tatanus/SPF

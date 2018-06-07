@@ -9,8 +9,8 @@ WarBerryPi was built to be used as a hardware implant during red teaming scenari
 
 ### Black Hat sessions
 
- [![Black Hat Arsenal USA ](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
-[![Black Hat Europe](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
+ [![Black Hat Arsenal USA ](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2016.svg)](https://www.toolswatch.org/2016/06/the-black-hat-arsenal-usa-2016-remarkable-line-up/)
+[![Black Hat Europe](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2016.svg)](https://www.toolswatch.org/2016/09/the-black-hat-arsenal-europe-2016-line-up/)
 
 ### Popularity
 

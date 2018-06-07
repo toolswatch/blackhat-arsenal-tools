@@ -9,8 +9,8 @@ DYODE (Do Your Own Dyode) is a low cost, DIY data diode aimed at securing Indust
 
 ### Black Hat sessions
 
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](http://www.toolswatch.org/2017/06/the-black-hat-arsenal-usa-2017-phenomenal-line-up-announced/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
 
 ### Code 
 https://github.com/wavestone-cdt/dyode

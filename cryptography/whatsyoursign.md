@@ -15,7 +15,7 @@ Full details and usage instructions can be found [here](https://objective-see.co
 * Malware Research
 
 ### Black Hat sessions
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/europe/2017.svg)](http://www.toolswatch.org/2017/09/black-hat-arsenal-europe-2017-lineup/)
  
 ### Code 
 https://github.com/objective-see/WhatsYourSign

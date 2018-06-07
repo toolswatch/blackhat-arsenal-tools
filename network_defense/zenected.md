@@ -23,7 +23,7 @@ For more info and resources visit: https://zenected.com
 
 
 ### Black Hat sessions
-[![Arsenal Asia 2017](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2017.svg)](https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)
+[![Arsenal Asia 2017](https://rawgit.com/toolswatch/badges/master/arsenal/asia/2017.svg)](https://www.toolswatch.org/2017/02/the-black-hat-arsenal-asia-2017-great-line-up/)
 
 
 ### Code 

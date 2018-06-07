@@ -20,7 +20,7 @@ For more information on the LoRa PHY and Matt's blind signal analysis process:
 * Hardware/IoT
 
 ### Black Hat sessions
-[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html#gr-lora-an-open-source-sdr-implementation-of-the-lora-phy-8045)
+[![Arsenal](https://rawgit.com/toolswatch/badges/master/arsenal/usa/2017.svg)](https://www.blackhat.com/us-17/arsenal/schedule/index.html#gr-lora-an-open-source-sdr-implementation-of-the-lora-phy-8045)
  
 ### Code 
 https://github.com/BastilleResearch/gr-lora
