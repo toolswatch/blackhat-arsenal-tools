@@ -28,6 +28,7 @@ Use my secure [FormAssembly](https://www.formassembly.com) form -> [CyberRange S
 * Network Defense
 
 ### Black Hat sessions
+[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/usa/2011.svg)](https://www.blackhat.com/html/bh-us-11/bh-us-11-arsenal.html/)
 
 [![Black Hat Arsenal](https://raw.githubusercontent.com/secdevops-cuse/badges/master/arsenal/europe/2019.svg)](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#cyberrange-an-open-source-offensivedefensive-security-lab-in-aws-18229)
 <a href="https://www.blackhat.com/eu-19/arsenal/schedule/index.html#cyberrange-an-open-source-offensivedefensive-security-lab-in-aws-18229"><img alt="Black Hat Arsenal Europe 2019" src="https://raw.githubusercontent.com/secdevops-cuse/badges/master/arsenal/europe/2019.svg" /></a>
