@@ -1,4 +1,4 @@
-[alt text](https://github.com/secdevops-cuse/CyberRange/master/img/CyberRangev2_mini.png "Cyber Range")
+[alt text](https://github.com/secdevops-cuse/CyberRange/raw/master/img/CyberRangev2_mini.png "Cyber Range")
 
 #  Cyber Range:  An AWS-based Open-Source Cyber Range framework
 
