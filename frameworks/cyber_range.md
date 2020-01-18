@@ -1,4 +1,4 @@
-![Cyber Range](https://raw.githubusercontent.com/secdevops-cuse/CyberRange/master/img/CyberRangev2_mini.png)
+[alt text](https://github.com/secdevops-cuse/CyberRange/master/img/CyberRangev2_mini.png "Cyber Range")
 
 #  Cyber Range:  An AWS-based Open-Source Cyber Range framework
 
@@ -27,7 +27,7 @@ Use my secure [FormAssembly](https://www.formassembly.com) form -> [CyberRange S
 * Network Defense
 
 ### Black Hat sessions
-[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/europe/2019.svg)](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#cyberrange-an-open-source-offensivedefensive-security-lab-in-aws-18229)
+[![Arsenal](https://raw.githubusercontent.com/secdevops-cuse/badges/master/arsenal/europe/2019.svg)](https://www.blackhat.com/eu-19/arsenal/schedule/index.html#cyberrange-an-open-source-offensivedefensive-security-lab-in-aws-18229)
 
 ### Code
 https://github.com/secdevops-cuse/CyberRange
