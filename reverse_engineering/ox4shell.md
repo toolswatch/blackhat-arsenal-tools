@@ -16,7 +16,7 @@ We believe that security teams around the world can benefit from using Ox4Shell 
 
 ### Black Hat sessions
 
-[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/usa/2022.svg)](https://www.blackhat.com/us-22/arsenal/schedule/index.html)
+[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/usa/2022.svg)](https://www.blackhat.com/us-22/arsenal/schedule/index.html#oxshell---deobfuscate-logshell-payloads-with-ease-2799)
 
 
 ### Code
