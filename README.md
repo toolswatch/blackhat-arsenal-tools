@@ -5,7 +5,7 @@
 This github account maps to the Black Hat Arsenal tools since its inception in 2011. 
 For readibility, the tools are classified by category and not by session. 
 
-This account is maintained by [ToolsWatch.org](https://www.toolswatch.org) the official organizer of the Black Hat Arsenal event
+This account is maintained by NJ OUCHN from [ToolsWatch.org](https://www.toolswatch.org) the official co-founder & organizer of the Black Hat Arsenal event
 
 
 **Disclaimer**: Tools not demonstrated during a Black Hat Arsenal session will not be accepted
