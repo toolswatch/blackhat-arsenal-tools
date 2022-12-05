@@ -16,7 +16,7 @@ Betterscan is a simple and powerful software to automate thousands of checks (or
 
               
 ### Code
-https://github.com/marcinguy/betterscan-ce
+[https://github.com/marcinguy/betterscan-ce](https://github.com/marcinguy/betterscan-ce)
 
 ### Documentation
 https://github.com/marcinguy/betterscan-ce/wiki
