@@ -6,7 +6,6 @@ Betterscan is a simple and powerful software to automate thousands of checks (or
 
 ### Categories
 * Code Assessment
-* Software Composition Analysis
 * Cloud
 
 
