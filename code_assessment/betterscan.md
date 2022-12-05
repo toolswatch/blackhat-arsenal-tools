@@ -12,7 +12,7 @@ Betterscan is a simple and powerful software to automate thousands of checks (or
 
 #### BlackHat Arsenal Sessions
 
-[![Black Hat MEA Arsenal 2022](https://blackhatmea.com/blackhat-arsenal)
+[Black Hat MEA Arsenal 2022](https://blackhatmea.com/blackhat-arsenal)
 
               
 ### Code
