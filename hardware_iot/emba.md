@@ -21,6 +21,7 @@
 ### Black Hat sessions
 ![Black Hat Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/asia/2022.svg?sanitize=true)
 ![Black Hat Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2022.svg?sanitize=true)
+![Black Hat Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2022.svg?sanitize=true)
 
 ### Code
 * [EMBA Github page](https://github.com/e-m-b-a/emba)
@@ -31,4 +32,5 @@
 
 ### Social Media
 * [Twitter](https://twitter.com/securefirmware/)
+* [Mastodon](https://infosec.exchange/@securefirmware)
 * [EMBA blog](https://www.securefirmware.de/)
