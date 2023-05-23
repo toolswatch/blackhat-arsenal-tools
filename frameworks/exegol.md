@@ -19,6 +19,7 @@ Exegol fits pentesters, CTF players, bug bounty hunters, researchers, beginners 
 ### Black Hat sessions
 
 [![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/europe/2022.svg)]()
+[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/asia/2023.svg)]()
 
 ### Entrypoint
 - Python wrapper: https://github.com/ThePorgs/Exegol
