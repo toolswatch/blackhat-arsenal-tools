@@ -5,11 +5,11 @@
 </div>
 
 ### Description
-Exegol is a community-driven hacking environment, powerful and yet simple enough to be used by anyone in day to day engagements. Exegol is the best solution to deploy powerful hacking environments securely, easily, professionally.
-Exegol fits pentesters, CTF players, bug bounty hunters, researchers, beginners and advanced users, defenders, from stylish macOS users and corporate Windows pros to UNIX-like power users.
-- Supported OS: Linux, Windows, macOS
-- Supported architectures: AMD64 (x86_64), ARM64 (aarch64)
-- Basic requirements: Docker, Python, Git
+Exegol is an alternative to Kali Linux, Parrot, BlackArch, ...
+
+It provides all the right tools, advanced customization, in docker environments, providing a Python wrapper to use it very easily, and leaving room for user custom setup.
+
+It's the best hacking environment for professionals. It support various OSes (Linux, Windows, macOS) and architectures (AMD64, ARM64), is community-driven, and trusted by 15k+ users worldwide.
 
 ### Categories
 * Pentesting
@@ -20,16 +20,17 @@ Exegol fits pentesters, CTF players, bug bounty hunters, researchers, beginners 
 
 [![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/europe/2022.svg)]()
 [![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/asia/2023.svg)]()
+[![Arsenal](https://github.com/toolswatch/badges/blob/master/arsenal/usa/2023.svg)]()
 
-### Entrypoint
-- Python wrapper: https://github.com/ThePorgs/Exegol
+### Start here
+https://exegol.readthedocs.io/
 
 ### Other links
+- Python wrapper: https://github.com/ThePorgs/Exegol
 - PyPI package: https://pypi.org/project/Exegol/
 - Docker images: https://github.com/ThePorgs/Exegol-images
 - Docker images registry: https://hub.docker.com/repository/docker/nwodtuhs/exegol
 - Offline resources: https://github.com/ThePorgs/Exegol-resources
-- Documenation: https://exegol.readthedocs.io/
 - Documentation source: https://github.com/ThePorgs/Exegol-docs
 
 ### Lead Developer(s)
