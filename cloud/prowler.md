@@ -15,6 +15,7 @@ Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud 
 ### Black Hat sessions
 [![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/usa/2023.svg)](https://www.blackhat.com/us-23/arsenal/schedule/index.html#prowler-open-source-for-multi-cloud-security-assessments-and-pentesting-32103)
 
+[![Arsenal](https://raw.githubusercontent.com/toolswatch/badges/master/arsenal/europe/2022.svg)](https://www.blackhat.com/eu-22/arsenal/schedule/index.html#prowler-v-the-handy-multi-cloud-security-tool-29612)
 ### Code
 https://github.com/prowler-cloud/prowler
 
